@@ -54,7 +54,6 @@ Supported platforms: Windows, Linux
 ## Installation
 
 This is a paid plugin distributed via Fab only.  
-The Fab product page will be enabled after the review is completed.  
 
 1. Install the plugin from [Fab](https://www.fab.com/en-US/listings/74869306-565b-4051-a590-fd2d81ab2386) (once enabled).  
 2. If the feature is not available after installing the plugin, enable it in `Edit > Plugins` and restart the editor.  
@@ -333,4 +332,5 @@ Unless otherwise noted, the copyright of the documents in this repository belong
 
 ## History
 
-Coming soon
+- (2026/02/17) v1.0   
+  The plugin has been released  
