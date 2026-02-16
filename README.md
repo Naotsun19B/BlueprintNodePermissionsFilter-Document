@@ -52,7 +52,8 @@ Supported platforms: Windows, Mac, Linux
 
 ## Installation
 
-Coming soon
+Install from the [Fab](https://www.fab.com/en-US/listings/74869306-565b-4051-a590-fd2d81ab2386).  
+If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ## Features and Usage
 
@@ -306,7 +307,7 @@ Values are saved in `Editor.ini` under `Saved/Config/`.
 ## License
 
 This repository contains documentation only. It does not include the plugin’s source code or binaries.  
-The plugin itself is distributed on Fab and provided under the [Fab Standard License (Fab EULA)](https://www.fab.com/ja/eula).  
+The plugin itself is distributed on Fab and provided under the [Fab Standard License (Fab EULA)](https://www.fab.com/en-US/eula).  
 Unless otherwise noted, the copyright of the documents in this repository belongs to © 2025–2026 Naotsun. Unauthorized reproduction is prohibited.
 
 ## Author
