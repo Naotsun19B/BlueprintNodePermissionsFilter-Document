@@ -10,6 +10,7 @@
 * [Description](#description)
 * [Requirements](#requirements)
 * [Installation](#installation)
+* [Quick Start](#quick-start)
 * [Features and Usage](#features-and-usage)
     * [Group System](#group-system)
         * [Administrator Group](#administrator-group)
@@ -52,8 +53,24 @@ Supported platforms: Windows, Mac, Linux
 
 ## Installation
 
-Install from the [Fab](https://www.fab.com/en-US/listings/74869306-565b-4051-a590-fd2d81ab2386).  
-If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
+This is a paid plugin distributed via Fab only.  
+The Fab product page will be enabled after the review is completed.  
+
+1. Install the plugin from [Fab](https://www.fab.com/en-US/listings/74869306-565b-4051-a590-fd2d81ab2386) (once enabled).  
+2. If the feature is not available after installing the plugin, enable it in `Edit > Plugins` and restart the editor.  
+
+## Quick Start
+
+After installation is complete, you can check the features of the plugin by following the steps below.  
+
+1. Open any project in Unreal Editor.  
+2. Go to `Edit > Editor Preferences > Blueprint Node Permissions Filter > Group Settings`.  
+3. Create any group in the group tree view.  
+4. Change your affiliation from the Affiliated Group to the group you created.  
+5. Go to `Edit > Editor Preferences > Blueprint Node Permissions Filter > [Created Group Name]`.  
+6. Set the filter state of any node to `Deny`.  
+7. Open any Blueprint graph and right-click to open the action menu.  
+8. Confirm that the nodes belonging to the denied scope are hidden from the action menu.  
 
 ## Features and Usage
 
