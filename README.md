@@ -49,7 +49,7 @@ For example, you can hide high-cost engine-standard nodes from team members and 
 ## Requirements
 
 Target versions: UE 5.4 – 5.7  
-Supported platforms: Windows, Mac, Linux
+Supported platforms: Windows, Linux
 
 ## Installation
 
